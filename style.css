@@ -13,13 +13,12 @@ html {
   font-size: 16px;
 }
 
-h1,
-h2 {
-  font-size: 2rem;
-  color: black;
+h1 {
+  font-size: 1, 5 rem;
 }
-h3 {
-  font-size: 1.5rem;
+h2 {
+  font-size: 1rem;
+  color: black;
 }
 
 /**************************************************************/
@@ -28,4 +27,5 @@ h3 {
 
 body {
   background-color: lightblue;
+  padding: 5rem;
 }
